@@ -186,8 +186,18 @@
         "text" : "Universe Modpack by Mark_Terry",
 		"color" : 16777215,
 		"hoverColor" : 568072,
-        "posX" : -165,
+        "posX" : -180,
         "posY" : -40,
+        "alignment" : "bottom_right"
+        },
+		
+		"current-version-title":
+        {
+        "text" : "Current Version:",
+		"color" : 16777215,
+		"hoverColor" : 568072,
+        "posX" : -180,
+        "posY" : -30,
         "alignment" : "bottom_right"
         },
 		
@@ -196,8 +206,18 @@
         "text" : "file:universe:version.txt",
 		"color" : 16777215,
 		"hoverColor" : 568072,
-        "posX" : -165,
+        "posX" : -93,
         "posY" : -30,
+        "alignment" : "bottom_right"
+        },
+		
+		"latest-version-title":
+        {
+        "text" : "Latest Version:",
+		"color" : 16777215,
+		"hoverColor" : 568072,
+        "posX" : -180,
+        "posY" : -20,
         "alignment" : "bottom_right"
         },
 		
@@ -206,17 +226,17 @@
         "text" : "web:https://raw.githubusercontent.com/AffectAge/Universe/main/latest-version.txt",
 		"color" : 16777215,
 		"hoverColor" : 568072,
-        "posX" : -165,
+        "posX" : -101,
         "posY" : -20,
         "alignment" : "bottom_right"
-        },
+        },		
 		
 		"mods":
         {
         "text" : "Mods Loaded: #modsloaded#/Mods Active: #modsactive#",
 		"color" : 16777215,
 		"hoverColor" : 568072,
-        "posX" : -165,
+        "posX" : -180,
         "posY" : -10,
         "alignment" : "bottom_right"
         }
