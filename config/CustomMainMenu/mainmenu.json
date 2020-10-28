@@ -203,7 +203,7 @@
 		
 		"latest-version":
         {
-        "text" : "web:https://raw.githubusercontent.com/AffectAge/universe/main/latest-version.txt",
+        "text" : "web:https://raw.githubusercontent.com/AffectAge/Universe/main/latest-version.txt",
 		"color" : 16777215,
 		"hoverColor" : 568072,
         "posX" : -165,
