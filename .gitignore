@@ -10,3 +10,10 @@ options.txt
 loading-log.log
 usercache.json
 usernamecache.json
+config/splash.properties
+.mixin.out/audit/mixin_implementation_report.txt
+.mixin.out/audit/mixin_implementation_report.csv
+crafttweaker.log
+crash-reports/
+optionsshaders.txt
+optionsof.txt

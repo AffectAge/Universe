@@ -1,3 +1,33 @@
+# Advancements
 
-advancements.blacksmith.root.title=Кузнец название
-advancements.blacksmith.root.description=Кузнец описание
+# Античность
+advancements.antiquity.root.title=Античность
+advancements.antiquity.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Средневековье
+advancements.middle_ages.root.title=Средневековье
+advancements.middle_ages.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Возрождение
+advancements.renaissance.root.title=Возрождение
+advancements.renaissance.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Новое время
+advancements.new_time.root.title=Новое время
+advancements.new_time.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Индустриальная эра
+advancements.industrial_age.root.title=Индустриальная эра
+advancements.industrial_age.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Эпоха атома
+advancements.atom_age.root.title=Эра атома
+advancements.atom_age.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Информационная эра
+advancements.informational_age.root.title=Информационная эра
+advancements.informational_age.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза
+
+# Космическая эра
+advancements.space_age.root.title=Космическая эра
+advancements.space_age.root.description=Некоторые лидеры имеют дополнительных уникальных юнитов — такие могут вызвать это событие более одного раза

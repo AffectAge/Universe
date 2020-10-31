@@ -1,0 +1,23 @@
+//Установить иконку
+setIcon(<minecraft:map>)
+
+//Название
+setTranslatedTitle("advancements.new_time.root.title")
+
+//Описание
+setTranslatedDescription("advancements.new_time.root.description")
+
+//Фон
+setBackground("universe:triumph/textures/root/new_time.png")
+
+//Настройка всплывающего уведомления в правом верхнем углу экрана
+setShowToast(false)
+
+//Уведомление в чат когда получено достижение
+setAnnounceToChat(false)
+
+//Set the position
+setPos(-80,-4)
+
+//Условие выполнения
+addCriteria("location", "minecraft:location")
